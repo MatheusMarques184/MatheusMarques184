@@ -16,8 +16,8 @@
   ##
  
 <div> 
-  <a href = "mailto:matheusmarquesneves12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-marques-843609201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://matheus-marques.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Meu Portifolio-%230077B5?style=for-the-badge&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matheusmarquesneves12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="nofollow"></a>
+  <a href="https://www.linkedin.com/in/matheus-marques-843609201/" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="nofollow" target="_blank"></a>
+  <a href="https://matheus-marques.netlify.app/" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/-Meu Portifolio-%230077B5?style=for-the-badge&logoColor=white" rel="nofollow" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
