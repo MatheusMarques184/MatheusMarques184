@@ -1,4 +1,4 @@
-## Oi eu sou o Matheus Marques, estou cursando Engenharia de Software e fazendo curso sobre programação WEB!
+## Oi eu sou o Matheus Marques, sou desenvolvedor WEB e estou cursando Engenharia de Software!
 ## Meu portfolio - https://matheus-marques.netlify.app/ 
 ## Meu linkedin  - https://www.linkedin.com/in/matheus-marques-843609201
 <div align="center">
