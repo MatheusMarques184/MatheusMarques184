@@ -1,14 +1,14 @@
 ## Oi eu sou o Matheus Marques, sou desenvolvedor WEB e estou cursando Engenharia de Software!
 ## Meu portfolio - https://matheus-marques.netlify.app/ 
 ## Meu linkedin  - https://www.linkedin.com/in/matheus-marques-843609201
+<div style="display: inline_block">
+ <h3>Rank in Code Wars!</h3>
+ <img align="center" alt="Matheus-Rank-Code-Wars" height="100" width="420" src='https://www.codewars.com/users/MatheusMarques184/badges/large'>
+</div>
 <div align="center">
   <a href="https://github.com/MatheusMarques184">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMarques184&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMarques184&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block">
- <h3>Rank in Code Wars!</h3>
- <img align="center" alt="Matheus-Rank-Code-Wars" height="100" width="420" src='https://www.codewars.com/users/MatheusMarques184/badges/large'>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
